@@ -22,15 +22,16 @@ Skills: VUE JS / REACT / JS / HTML / CSS / BLOCKCHAIN / JAVA / PHP / FIREBASE / 
 ## 📘 1. Career Counselling
 
 ### 🧾 Evidence
-- Attended 3 career counselling sessions (with proof of attendance)
-- Completed a career interest quiz (linked below)
-- [Career Report PDF](docs/career-counselling-report.pdf)
+- Attended the Career WIL recruitment for Capitec on Campus. Also attended ABSA day on campus enquiring about opportunities.
+- Busy with Amazon courses learning provided free by Vodacom learning Cloud computing.
+- Screenshot of email confirmation provided below:
+ ![Career Counselling Confirmation Screenshot](images/career-confirmation.png)
 
 ### 💭 Reflection (STAR)
-**S - Situation:** I was uncertain about my future career direction.  
-**T - Task:** Attend a career counselling session to gain clarity.  
-**A - Action:** I participated actively, asked questions, and completed all assigned assessments.  
-**R - Result:** I gained insight into careers aligned with my values and strengths, which helped me set clearer goals.
+**S - Situation:** I had to look for WIL and career opportunities from organisations.  
+**T - Task:** Attend a few sessions for career opportunities.  
+**A - Action:** I participated actively, asked questions, ann is in the process of completing courses I enrolled myself into. 
+**R - Result:** I gained insight into the different careers my qualification can enable. I learned alot about how one should be seeking opportunites.
 
 ---
 
