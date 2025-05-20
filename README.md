@@ -37,14 +37,28 @@ Skills: VUE JS / REACT / JS / HTML / CSS / BLOCKCHAIN / JAVA / PHP / FIREBASE / 
 ## 🧠 2. Skills and Interests
 
 ### 🧾 Evidence
-- Completed a skills self-assessment and interest inventory
-- [Skills & Interests Worksheet](docs/skills-interests.pdf)
 
-### 💭 Reflection (STAR)
-**S:** I needed to identify my core competencies and passions.  
-**T:** Use provided tools to map out my skills and interests.  
-**A:** I documented both hard and soft skills and compared them with job requirements.  
-**R:** I now understand how my interests align with careers in software development.
+- Completed a **Skills Self-Assessment** and **Interest Inventory** as part of WIL preparation.
+- Actively applied and refined technical skills during real-world projects at Plum Systems.
+- Participated in collaborative development using **React**, **Firebase**, and **Redux**, aligned with industry practices.
+- Documented outcomes in the [Skills & Interests Worksheet](docs/skills-interests.pdf).
+
+---
+
+### 💭 Reflection (STAR Format)
+
+**S (Situation):**  
+At the beginning of my Work Integrated Learning placement at Plum Systems, I needed to identify my core competencies and align them with my career goals in software development.
+
+**T (Task):**  
+I was tasked with completing a skills self-assessment and an interest inventory to better understand where my strengths lie and how they map to industry needs, especially in web development technologies like React and Firebase.
+
+**A (Action):**  
+I documented both my hard skills (such as JavaScript, React, Firebase, Git, and REST API integration) and soft skills (communication, collaboration, time management). I then compared my profile against various job descriptions and team expectations during my internship.
+
+**R (Result):**  
+Through this reflection and practical experience, I’ve gained a clear understanding of how my technical interests—like front-end development and AI integration—align with a professional career in full-stack or front-end development. I also realized my growing interest in productivity tools and educational tech solutions, as seen in projects like the Task-ToDo and Smart Learning Management System (SLPMS).
+
 
 ---
 
