@@ -91,7 +91,7 @@
 ## 📢 Contact
 
 - 📧 Email: 222008237@mycput.ac.za 
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](www.linkedin.com/in/justin-karoles-05a886224) 
+- 💼 LinkedIn: [linkedin.com/in/justin-karoles-05a886224](www.linkedin.com/in/justin-karoles-05a886224) 
 
 ---
 
