@@ -17,7 +17,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS / BLOCKCHAIN / JAVA / PHP / FIREBASE / 
 - 🐘 **PHP**
 - 🔥 **Firebase**
 - 🛢️ **SQL**
-github linkedin
+
 
 ## 📘 1. Career Counselling
 
