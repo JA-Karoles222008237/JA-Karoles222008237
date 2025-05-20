@@ -28,9 +28,12 @@ Skills: VUE JS / REACT / JS / HTML / CSS / BLOCKCHAIN / JAVA / PHP / FIREBASE / 
  ![Career Counselling Confirmation Screenshot](images/career-confirmation.png)
 
 ### 💭 Reflection (STAR)
-**S - Situation:** I had to look for WIL and career opportunities from organisations.  
-**T - Task:** Attend a few sessions for career opportunities.  
-**A - Action:** I participated actively, asked questions, ann is in the process of completing courses I enrolled myself into. 
+**S - Situation:** I had to look for WIL and career opportunities from organisations.
+
+**T - Task:** Attend a few sessions for career opportunities.
+
+**A - Action:** I participated actively, asked questions, ann is in the process of completing courses I enrolled myself into.
+
 **R - Result:** I gained insight into the different careers my qualification can enable. I learned alot about how one should be seeking opportunites.
 
 ---
