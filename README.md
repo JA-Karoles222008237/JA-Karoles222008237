@@ -6,6 +6,10 @@
 -->
 
 ---
+Skills: VUE JS / REACT / JS / HTML / CSS / BLOCKCHAIN / JAVA / PHP / FIREBASE / SQL 
+
+🔭 I’m currently working on this page.
+github linkedin
 
 ## 📘 1. Career Counselling
 
