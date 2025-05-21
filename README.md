@@ -82,7 +82,11 @@ Through this reflection and practical experience, I’ve gained a clear understa
 
 ### 🧾 Evidence
 - I was chosen in my project group as Mediator overseeing the communication in group.
-- [Personality Report PDF](docs/personality-assessment.pdf)
+
+ <p align="center">
+  <img src="/docs/PDFscreen.png" alt="Career Counselling Confirmation Screenshot" width="45%" />
+  <img src="/docs/CertEvi.png" alt="Second Screenshot" width="45%" />
+</p>
 
 ### 💭 Reflection (STAR)
 **S:** I wanted to explore how my personality affects teamwork and leadership.  
