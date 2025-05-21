@@ -97,9 +97,9 @@ Through this reflection and practical experience, I’ve gained a clear understa
 
 ### 💭 Reflection (STAR)
 **S:** I lacked a formal CV suitable for job applications.  
-**T:** Draft and finalize a professional CV highlighting relevant skills.  
-**A:** Attended CV workshops, got feedback, and refined the content and layout.  
-**R:** Produced a clear, ATS-friendly CV aligned with the software development industry.
+**T:** Drafted a professional CV highlighting relevant skills.  
+**A:** Attended CV class on campus, got feedback, and refined the content and layout.  
+**R:** Produced a clear, friendly CV aligned with my skills that aligns the software development industry.
 
 ---
 
@@ -115,15 +115,6 @@ Through this reflection and practical experience, I’ve gained a clear understa
 **A:** Researched companies, customized my CV, and submitted it successfully.  
 **R:** Received positive feedback and feel more confident in future applications.
 
----
-
-## 🧾 Supporting Documents
-
-- [Career Interest Report](docs/career-counselling-report.pdf)
-- [Skills & Interests Inventory](docs/skills-interests.pdf)
-- [Personality Report](docs/personality-assessment.pdf)
-- [CV Document](docs/my-cv.pdf)
-- [Submission Screenshot](docs/cv-submission.png)
 
 ---
 
