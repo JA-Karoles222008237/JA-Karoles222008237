@@ -52,7 +52,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS / BLOCKCHAIN / JAVA / PHP / FIREBASE / 
 - Completed a **Skills Self-Assessment** and **Interest Inventory** as part of WIL preparation.
 - Actively applied and refined technical skills during real-world projects at Plum Systems.
 - Participated in collaborative development using **React**, **Firebase**, and **Redux**, aligned with industry practices.
-- Documented outcomes in the [Skills & Interests Worksheet](docs/skills-interests.pdf).
+- Documented outcomes in the below:
  
  <p align="center">
   <img src="/docs/Todo Login.jpeg" alt="Career Counselling Confirmation Screenshot" width="45%" />
