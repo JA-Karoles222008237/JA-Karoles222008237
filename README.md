@@ -26,7 +26,8 @@ Skills: VUE JS / REACT / JS / HTML / CSS / BLOCKCHAIN / JAVA / PHP / FIREBASE / 
 - Busy with Amazon courses learning provided free by Vodacom learning Cloud computing.
 - Screenshot of email confirmation provided below:
 
-![Career Counselling Confirmation Screenshot](docs/Amazon software.png)
+![Career Counselling Confirmation Screenshot](./docs/Amazon%20software.png)
+
 
 ### 💭 Reflection (STAR)
 **S - Situation:** I had to look for WIL and career opportunities from organisations.
