@@ -81,7 +81,7 @@ Through this reflection and practical experience, I’ve gained a clear understa
 ## 🧬 3. Personality Assessment
 
 ### 🧾 Evidence
-- 
+- I was chosen in my project group as Mediator overseeing the communication in group.
 - [Personality Report PDF](docs/personality-assessment.pdf)
 
 ### 💭 Reflection (STAR)
