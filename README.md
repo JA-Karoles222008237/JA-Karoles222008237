@@ -25,7 +25,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS / BLOCKCHAIN / JAVA / PHP / FIREBASE / 
 - Attended the Career WIL recruitment for Capitec on Campus. Also attended ABSA day on campus enquiring about opportunities.
 - Busy with Amazon courses learning provided free by Vodacom learning Cloud computing.
 - Screenshot of email confirmation provided below:
- ![Career Counselling Confirmation Screenshot](images/career-confirmation.png)
+ ![Career Counselling Confirmation Screenshot]()
 
 ### 💭 Reflection (STAR)
 **S - Situation:** I had to look for WIL and career opportunities from organisations.
@@ -69,7 +69,7 @@ Through this reflection and practical experience, I’ve gained a clear understa
 ## 🧬 3. Personality Assessment
 
 ### 🧾 Evidence
-- Completed a MBTI personality test and reflection exercise
+- 
 - [Personality Report PDF](docs/personality-assessment.pdf)
 
 ### 💭 Reflection (STAR)
