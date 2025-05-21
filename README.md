@@ -55,8 +55,8 @@ Skills: VUE JS / REACT / JS / HTML / CSS / BLOCKCHAIN / JAVA / PHP / FIREBASE / 
 - Documented outcomes in the [Skills & Interests Worksheet](docs/skills-interests.pdf).
  
  <p align="center">
-  <img src="/docs/" alt="Career Counselling Confirmation Screenshot" width="45%" />
-  <img src="/docs/" alt="Second Screenshot" width="45%" />
+  <img src="/docs/Todo20%Login.jpeg" alt="Career Counselling Confirmation Screenshot" width="45%" />
+  <img src="/docs/Todo20%App20%screenshot.jpeg" alt="Second Screenshot" width="45%" />
 </p>
 
 ---
