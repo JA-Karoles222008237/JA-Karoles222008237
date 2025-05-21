@@ -25,7 +25,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS / BLOCKCHAIN / JAVA / PHP / FIREBASE / 
 - Attended the Career WIL recruitment for Capitec on Campus. Also attended ABSA day on campus enquiring about opportunities.
 - Busy with Amazon courses learning provided free by Vodacom learning Cloud computing.
 - Screenshot of email confirmation provided below:
- ![Career Counselling Confirmation Screenshot]()
+ ![Career Counselling Confirmation Screenshot](docs/Amazon software .png)
 
 ### 💭 Reflection (STAR)
 **S - Situation:** I had to look for WIL and career opportunities from organisations.
