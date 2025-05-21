@@ -107,7 +107,7 @@ Through this reflection and practical experience, I’ve gained a clear understa
 
 ### 🧾 Evidence
 - Submitted CV to a simulated or real employer via email or a portal
-- [Proof of Submission Screenshot](docs/cv-submission.png)
+![Career Counselling Confirmation Screenshot](/docs/Amazon%20software%20.png)
 
 ### 💭 Reflection (STAR)
 **S:** I needed to apply the skills learned by submitting my CV professionally.  
