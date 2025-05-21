@@ -114,7 +114,7 @@ Through this reflection and practical experience, I’ve gained a clear understa
 
 ### 💭 Reflection (STAR)
 **S:** I needed to apply the skills learned by submitting my CV professionally.  
-**T:** Find a job opportunity and submit my CV with a tailored cover letter.  
+**T:** Looked for an job opportunity and applied with my upgraded CV.  
 **A:** Researched companies, customized my CV, and submitted it successfully.  
 **R:** Received positive feedback and feel more confident in future applications.
 
