@@ -53,6 +53,11 @@ Skills: VUE JS / REACT / JS / HTML / CSS / BLOCKCHAIN / JAVA / PHP / FIREBASE / 
 - Actively applied and refined technical skills during real-world projects at Plum Systems.
 - Participated in collaborative development using **React**, **Firebase**, and **Redux**, aligned with industry practices.
 - Documented outcomes in the [Skills & Interests Worksheet](docs/skills-interests.pdf).
+ 
+ <p align="center">
+  <img src="/docs/" alt="Career Counselling Confirmation Screenshot" width="45%" />
+  <img src="/docs/" alt="Second Screenshot" width="45%" />
+</p>
 
 ---
 
