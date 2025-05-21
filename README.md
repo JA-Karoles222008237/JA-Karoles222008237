@@ -86,7 +86,7 @@ Through this reflection and practical experience, I’ve gained a clear understa
 
 ### 🧾 Evidence
 - Created a professional CV with guidance from facilitators
-- [Download My CV](docs/my-cv.pdf)
+- [Download My CV](docs/CV20%screen.jpeg)
 
 ### 💭 Reflection (STAR)
 **S:** I lacked a formal CV suitable for job applications.  
