@@ -33,7 +33,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS / BLOCKCHAIN / JAVA / PHP / FIREBASE / 
 
 
 ## 📘 1. Career Counselling
-![Career Counselling Screenshot](/docs/career dev.jpeg)
+![Career Counselling Screenshot](/docs/careerdev.jpeg)
 
 ### 🧾 Evidence
 - Attended the Career WIL recruitment for Capitec on Campus.
