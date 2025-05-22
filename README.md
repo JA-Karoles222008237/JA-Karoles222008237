@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="fotor-ai-2025052211056.jpg" width="100%" height="45px" style="object-fit:cover;" />
+  <img src="docs/fotor-ai-2025052211056.jpg" width="100%" height="45px" style="object-fit:cover;" />
 </p>
 
 
