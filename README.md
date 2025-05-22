@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JA-Karoles222008237/JA-Karoles222008237/main/docs/github-banner-1920x80.jpg" width="100%" />
+  <img src="https://raw.githubusercontent.com/JA-Karoles222008237/JA-Karoles222008237/main/docs/github-banner-1920x80.jpg" width="100%" height="150" />
 </p>
+
 
 
 ### Hi there 👋, my name is Justin Karoles.
