@@ -33,6 +33,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS / BLOCKCHAIN / JAVA / PHP / FIREBASE / 
 
 
 ## 📘 1. Career Counselling
+![Career Counselling Screenshot](/docs/career20%dev.jpeg)
 
 ### 🧾 Evidence
 - Attended the Career WIL recruitment for Capitec on Campus.
@@ -54,6 +55,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS / BLOCKCHAIN / JAVA / PHP / FIREBASE / 
 ## 🧠 2. Skills and Interests
 
 ### 🧾 Evidence
+![Skills and Interests Screenshot](/docs/skills.jpeg)
 
 - Completed a **Skills Self-Assessment** and **Interest Inventory** as part of WIL preparation.
 - Actively applied and refined technical skills during real-world projects at Plum Systems.
@@ -87,6 +89,7 @@ Through this reflection and practical experience, I’ve gained a clear understa
 ## 🧬 3. Personality Assessment
 
 ### 🧾 Evidence
+![Personality Assessment Screenshot](/docs/person.jpeg)
 - I was chosen in my project group as Mediator overseeing the communication in group.
 
  <p align="center">
