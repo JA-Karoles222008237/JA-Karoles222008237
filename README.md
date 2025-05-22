@@ -137,7 +137,7 @@ Through this reflection and practical experience, I’ve gained a clear understa
 ## 📢 Contact
 
 - 📧 Email: 222008237@mycput.ac.za 
-- 💼 LinkedIn: [linkedin.com/in/justin-karoles-05a886224](www.linkedin.com/in/justin-karoles-05a886224) 
+- 💼 LinkedIn: [linkedin.com/in/justin-karoles-05a886224](👉 https://www.linkedin.com/in/justin-karoles-05a886224) 
 
 ---
 
