@@ -1,3 +1,6 @@
+![GitHub Banner](docs/fotor-ai-2025052211056.jpg)
+
+
 ### Hi there 👋, my name is Justin Karoles.
 # 💼 Work Readiness Digital Portfolio
 
